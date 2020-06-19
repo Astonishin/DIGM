@@ -1,0 +1,288 @@
+body{
+  background-color: #eeeeee;
+}
+
+
+
+.Pagina-1{
+  text-align: center;
+  padding-top: 260px;
+  padding-bottom: 250px;
+  height: 108px;
+}
+.Soy-Daniel-Isaac {
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 287.5%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.Futuro-Ingeniero{
+  text-align: center;
+  font-family: 'Unica One', cursive;
+  font-size: 175%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.Nav-bar{
+  text-align: center;
+  font-family: 'Chau Philomene One', sans-serif;
+  font-size: 131.25%;
+  padding-top: 200px;
+}
+.Moon-1{
+  position: absolute;
+  top: 179px;
+  right: 41%;
+}
+a:hover {   color: #d18154; }
+a{
+  text-decoration: none;
+}
+
+
+.Pagina-2{
+    padding-bottom: 154px;
+}
+.Acerca{
+  font-family: 'Chau Philomene One', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 138.75%;
+  letter-spacing: 7px;
+}
+.Hola-mi{
+  font-family: 'Unica One', cursive;
+  width: 420px;
+  font-size: 115%;
+}
+.Naci-en{
+  font-family: 'Unica One', cursive;
+  width: 420px;
+  font-size: 115%;
+}
+.Si-quieres{
+  font-family: 'Unica One', cursive;
+  width: 420px;
+  text-align: center;
+  font-size: 115%;
+}
+.Tabla-1{
+  border-spacing: 5;
+  margin: auto;
+}
+
+
+.Pagina-3{
+   height: 625px;
+}
+.Habilidades{
+  font-family: 'Chau Philomene One', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 138.75%;
+  letter-spacing: 4.5px;
+}
+.Asto-1{
+  display: block;
+  margin: auto;
+  position: relative;
+  bottom: 100px;
+  left: 10px;
+}
+.Creatividad{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 165%;
+  position: relative;
+  left: 15px;
+}
+.TIC{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 165%;
+}
+.Dedicación{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 165%;
+  position: relative;
+  right: 4px;
+}
+.Hab-1{
+  margin: auto;
+  border-spacing: 135px;
+  position: relative;
+  bottom: 250px;
+}
+.Marcos{
+  margin: auto;
+  border-spacing: 39px;
+  position: relative;
+  bottom: 1030px;
+  left: 11px;
+}
+.Marco-img{
+  margin: auto;
+  border-spacing: 250px;
+  position: relative;
+  bottom: 650px;
+  right: 43px;
+}
+.Computer{
+  position: relative;
+  left: 20px;
+}
+.Man{
+  position: relative;
+  left: 60px;
+}
+.Brain{
+  position: relative;
+  right: 5px;
+}
+.Hab-text{
+  text-align: center;
+  font-family: 'Unica One', cursive;
+  margin: auto;
+  font-size: 135%;
+  width: 60%;
+  position: relative;
+  bottom: 1215px;
+  left:20px;
+}
+.Soy-c{
+  position: relative;
+  right: 140px;
+  top: 4px;
+  width: 105%;
+}
+.Empeño{
+  position: relative;
+  left: 120px;
+  top: 4px;
+  width: 105%;
+}
+
+
+
+
+
+
+.Pagina-4{
+  padding-bottom: 10px;
+}
+.CVV{
+  font-family: 'Chau Philomene One', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 138.75%;
+  letter-spacing: 8px;
+  left: 60px;
+}
+.CVVV{
+  font-family: 'Major Mono Display', monospace;
+  font-size: 300%;
+  letter-spacing: 36px;
+  display: inline-block;
+  position: relative;
+  left: 50px;
+  bottom: 20px;
+}
+.CVHeading{
+  border-spacing: 0;
+}
+.Tabla-CV-1{
+  position: relative;
+  left:145px;
+}
+.Tabla-cool{
+  border-spacing: 0;
+}
+.THead-1 {
+  font-family: 'Chau Philomene One', sans-serif;
+  font-size: 30px;
+}
+.THead-2{
+  font-family: 'Chau Philomene One', sans-serif;
+  font-size: 30px;
+  position: relative;
+  left: 140px;
+}
+.Headings{
+  font-family: 'Unica One', cursive;
+  font-size: 20px;
+}
+.Icons-Edu{
+  position: relative;
+  top: 12px;
+}
+.Edu-items {
+  font-family: 'Unica One', cursive;
+  font-size: 15px;
+  text-align: center;
+}
+.HOtros{
+  font-family: 'Unica One', cursive;
+  font-size: 20px;
+}
+.Des-Otros{
+  font-size: 15px;
+  text-align: center;
+}
+.Otros-icons{
+  position: relative;
+  top: 12px;
+}
+.Des-Otros-1{
+  width: 60%;
+   font-size: 15px;
+   text-align: center;
+}
+.cool-2{
+  position: relative;
+  top: 34px;
+}
+
+
+
+
+
+
+.Pagina-5{
+  padding-bottom: 63px
+}
+.Contacto{
+  font-family: 'Chau Philomene One', sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 138.75%;
+  letter-spacing: 9px;
+}
+.Contratar{
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+  font-size: 139.375%;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+.Libre{
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+  font-size: 139.375%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.Boton{
+  margin: auto;
+}
+.Imagen{
+  text-align: center;
+}
+.Tabla-Contratar{
+  margin: auto;
+  border-spacing: 16px;
+  position: relative;
+  bottom: 16px;
+}
+.Copyright{
+  font-family: 'Unica One', cursive;
+  text-align: center;
+}
